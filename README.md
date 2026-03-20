@@ -44,4 +44,4 @@ You can download similar datasets from:
 
 ---
 
-The reconstructed dataset has large size hence it is not included in this repository, while you perform the implementation it will be directly available on successfull completion of the code. 
+The reconstructed dataset has large size hence it is not included in this repository, while you perform the implementation it will be directly available on successfull execution of the code. 
