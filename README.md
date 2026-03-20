@@ -36,9 +36,12 @@ Due to large size, the dataset is not included in this repository.
 
 You can download similar datasets from:
 
-- Medical Segmentation Decathlon  (NIFTI DATASET)
+- Medical Segmentation Decathlon  (NIFTI DATASET)     
   http://medicaldecathlon.com/
 
 - The Cancer Imaging Archive (TCIA)   (DICOM DATASET)
   https://www.cancerimagingarchive.net/
 
+---
+
+The reconstructed dataset has large size hence it is not included in this repository, while you perform the implementation it will be directly available on successfull completion of the code. 
